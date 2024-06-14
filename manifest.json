@@ -37,8 +37,8 @@
   }
  ],
  "display": "fullscreen",
- "start_url": "index.htm",
  "background_color": "#FF9900",
  "theme_color": "#FF9900",
- "name": "CroatáEcoTour"
+ "name": "CroatáEcoTour",
+ "start_url": "index.htm"
 }
